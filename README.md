@@ -24,7 +24,7 @@ StayBnB is a web application designed to revolutionize how travelers find and ho
 </div>
 
 ## Try it out
-Website Link: [StayBnB](https://staybnb.junmingthecoder.com)
+Website Link: ~~[StayBnB](https://staybnb.junmingthecoder.com)~~[deprecated]
 
 Host account: username && password: host
 
